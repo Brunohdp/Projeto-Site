@@ -15,8 +15,8 @@ h2{
 }
 main{
     background-color: white;
-    width: 1200px;
-    height: 800px;
+    width: 700px;
+    height: 919px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.39);
@@ -24,7 +24,6 @@ main{
 img.voltar{
     float: left;
     width: 25px;
-    box-shadow: 3px 3px 5px black;
 }
 img.esq{
     float: left;
